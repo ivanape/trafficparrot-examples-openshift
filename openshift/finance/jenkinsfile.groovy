@@ -59,6 +59,7 @@ pipeline {
                             }
 
                             def managementRoute = openshift.selector("route", "${trafficParrotId}-http-management").object().spec.host
+                            echo "Management Route: ${managementRoute}"
                             Integer stableCount = 2 // wait until the route has been available this many times in a row
                             timeout(time: 10, unit: 'MINUTES') {
                                 for (int count = 0; count < stableCount; ) {

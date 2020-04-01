@@ -1,4 +1,4 @@
-FROM debian:buster
+FROM openjdk:8-jre
 
 ARG TRAFFIC_PARROT_ZIP
 ARG ACCEPT_LICENSE
