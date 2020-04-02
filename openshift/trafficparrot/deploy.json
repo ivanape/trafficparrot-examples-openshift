@@ -54,7 +54,7 @@
               ],
               "from": {
                 "kind": "ImageStreamTag",
-                "name": "trafficparrot-image:latest"
+                "name": "itx-trafficparrot-openshift:latest"
               }
             }
           },
@@ -80,7 +80,7 @@
                 "command": [
                   "sh",
                   "-c",
-                  "git clone https://github.com/ivanape/trafficparrot-examples-openshift.git /git/checkout && cp -R /git/checkout/mappings /git/trafficparrot-files"
+                  "git clone https://github.com/ivanape/trafficparrot-examples-openshift.git /git/checkout && cp -R /git/checkout/performance/trafficparrot_mappings /git/trafficparrot-files"
                 ],
                 "volumeMounts": [
                   {

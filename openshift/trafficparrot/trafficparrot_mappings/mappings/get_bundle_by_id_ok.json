@@ -1,0 +1,19 @@
+{
+  "id": "ba811f62-ef49-11e9-81b4-2a2ae2dbcce5",
+  "name": "get_bundle_by_id_ok.json",
+  "request": {
+    "urlPathPattern": "/itxrest/([0-9]+)/private/integration/catalog/store/([0-9]+)/product/([9][0-9]+)",
+    "method": "GET"
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "bundle_rest_response_ok.json",
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "transformers": [
+      "response-template"
+    ]
+  },
+  "uuid": "ba811f62-ef49-11e9-81b4-2a2ae2dbcce5"
+}

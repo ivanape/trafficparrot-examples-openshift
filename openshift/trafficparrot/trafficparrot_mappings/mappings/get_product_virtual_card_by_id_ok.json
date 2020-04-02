@@ -1,0 +1,17 @@
+{
+  "id" : "bcaa7c5a-f0e5-11e9-81b4-2a2ae2dbcce4",
+  "name" : "get_product_by_id_ok.json",
+  "request" : {
+    "urlPathPattern" : "/itxrest/([0-9]+)/private/integration/catalog/store/([0-9]+)/product/1002200",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "product_rest_response_virtual_gift_card_ok.json",
+    "headers" : {
+      "Content-Type" : "application/json"
+    },
+    "transformers" : [ "response-template" ]
+  },
+  "uuid" : "bcaa7c5a-f0e5-11e9-81b4-2a2ae2dbcce4"
+}

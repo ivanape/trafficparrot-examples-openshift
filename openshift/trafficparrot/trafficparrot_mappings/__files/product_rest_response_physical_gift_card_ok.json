@@ -1,0 +1,199 @@
+{
+  "id": {{request.path.[8]}},
+  "kind": "GiftCard",
+  "sectionName": "KID",
+  "categoryId": 363008,
+  "displayReference": "0000/000",
+  "reference": "50000000-I9999",
+  "name": "GIFT CARD",
+  "isBuyable": true,
+  "price": 6400,
+  "seo": {
+    "keyword": "gift-card",
+    "seoProductId": "50000000"
+  },
+  "colors": [
+    {
+      "id": "000",
+      "colorName": "000",
+      "stylingId": "0",
+      "colorGammas": [],
+      "features": [],
+      "qualities": [],
+      "xmedia": [
+        {
+          "datatype": "xmedia",
+          "set": 2,
+          "type": "image",
+          "kind": "full",
+          "path": "/9999/I/5/3/p/0000/000/000/2",
+          "name": "0000000000_1_1_1",
+          "width": 1920,
+          "height": 1468,
+          "timestamp": "1540197073285",
+          "allowedScreens": [
+            "small",
+            "large"
+          ],
+          "locations": [
+            {
+              "name": "SHOPCART_PAGE",
+              "order": 0
+            },
+            {
+              "name": "MINI_SHOPCART",
+              "order": 0
+            },
+            {
+              "name": "RELATED_PRODUCT",
+              "order": 0
+            },
+            {
+              "name": "CATEGORY_PAGE",
+              "order": 0
+            },
+            {
+              "name": "PRODUCT_PAGE",
+              "order": 0
+            }
+          ]
+        },
+        {
+          "datatype": "xmedia",
+          "set": 2,
+          "type": "image",
+          "kind": "other",
+          "path": "/9999/I/5/3/p/0000/000/000/2",
+          "name": "0000000000_2_2_1",
+          "width": 1299,
+          "height": 1610,
+          "timestamp": "1540197073285",
+          "allowedScreens": [
+            "small",
+            "large"
+          ],
+          "locations": [
+            {
+              "name": "CATEGORY_PAGE",
+              "order": 1
+            }
+          ]
+        },
+        {
+          "datatype": "xmedia",
+          "set": 2,
+          "type": "image",
+          "kind": "other",
+          "path": "/9999/I/5/3/p/0000/000/000/2",
+          "name": "0000000000_2_1_1",
+          "width": 1920,
+          "height": 1468,
+          "timestamp": "1540197073285",
+          "allowedScreens": [
+            "small",
+            "large"
+          ],
+          "locations": [
+            {
+              "name": "PRODUCT_PAGE",
+              "order": 1
+            }
+          ]
+        },
+        {
+          "datatype": "xmedia",
+          "set": 2,
+          "type": "image",
+          "kind": "colorcut",
+          "path": "/9999/I/5/3/p/0000/000/000/2",
+          "name": "0000000000_3_1_1",
+          "width": 1920,
+          "height": 1468,
+          "timestamp": "1540197073285",
+          "allowedScreens": [
+            "small",
+            "large"
+          ],
+          "locations": [
+            {
+              "name": "PRODUCT_PAGE",
+              "order": 1
+            }
+          ]
+        }
+      ],
+      "sizes": [
+        {
+          "sizeId": 1,
+          "sku": 1000300,
+          "reference":"0107430025105-V2018",
+          "price": 400,
+          "availability": "in_stock"
+        },
+        {
+          "sizeId": 2,
+          "sku": 1016004,
+          "reference": "5000000000002-I9999",
+          "price": 5500,
+          "availability": "in_stock"
+        },
+        {
+          "sizeId": 3,
+          "sku": 1016005,
+          "reference": "5000000000003-I9999",
+          "price": 5500,
+          "availability": "in_stock"
+        },
+        {
+          "sizeId": 4,
+          "sku": 1016006,
+          "reference": "5000000000004-I9999",
+          "price": 1400,
+          "availability": "in_stock"
+        },
+        {
+          "sizeId": 5,
+          "sku": 1016007,
+          "reference": "5000000000005-I9999",
+          "price": 100,
+          "availability": "in_stock"
+        },
+        {
+          "sizeId": 6,
+          "sku": 1016008,
+          "reference": "5000000000006-I9999",
+          "price": 5600,
+          "availability": "in_stock"
+        },
+        {
+          "sizeId": 7,
+          "sku": 1016009,
+          "reference": "5000000000007-I9999",
+          "price": 2600,
+          "availability": "in_stock"
+        },
+        {
+          "sizeId": 8,
+          "sku": 1016010,
+          "reference": "5000000000008-I9999",
+          "price": 4800,
+          "availability": "in_stock"
+        },
+        {
+          "sizeId": 9,
+          "sku": 1016011,
+          "reference": "5000000000009-I9999",
+          "price": 2800,
+          "availability": "in_stock"
+        },
+        {
+          "sizeId": 10,
+          "sku": 1016012,
+          "reference": "5000000000010-I9999",
+          "price": 5700,
+          "availability": "in_stock"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,995 @@
+{
+	"SEOUrlStrategyVersion": 2,
+	"id": {{request.path.[4]}},
+	"ffmCenterId": 18563,
+	"countryCode": "ES",
+	"phoneCountryCode": "+34",
+	"continent": "4",
+	"host": "www.zara.com",
+	"cisHost": "https://www.zara.com/integration/cisStockOutRestService/1.0/stockOutSubscription",
+	"cisBaseUrl": "https://www.zara.com/integration/cisStockOutRestService/1.0/stockOutSubscription",
+	"pushBaseUrl": "https://www.zara.com/push",
+	"appLaunchUrl": "zara:///1/",
+	"stockBaseUrl": "http://itxrest.inditex.com/LOMOServiciosRESTCommerce-ws/common",
+	"isClose": {
+		"value": false,
+		"message": ""
+	},
+	"isCompanyAllowed": true,
+	"isNifRequired": true,
+	"isTaxIncluded": true,
+	"isGiftCardAvailable": true,
+	"isConnectAvailable": false,
+	"is3GReliable": false,
+	"isWalletAvailable": true,
+	"isStrongPasswordRequired": true,
+	"isStockInStoresAvailable": true,
+	"isPushAvailable": true,
+	"isStoreOpeningHoursAvailable": true,
+	"isGiftTicketAvailable": true,
+	"gitftCardMonthsToExpire": 0,
+	"klarna": {
+		"baseJsUrl": "https://cdn.klarna.com/public/kitt/toc/v1.1/js/klarna.terms.min.js",
+		"termsJsUrl": "https://cdn.klarna.com/public/kitt/core/v1.0/js/klarna.min.js",
+		"merchantId": "",
+		"isExtendedTermsRequired": false,
+		"isGenderRequired": false,
+		"isAwarenessImageRequired": false,
+		"isExtraInfoRequired": false
+	},
+	"locale": {
+		"currencyCode": "EUR",
+		"currencyFormat": "#,##0.00 Â¤Â¤",
+		"currencyDecimals": -2,
+		"currencyRate": 1.0,
+		"isLastNameFirst": false,
+		"isCompoundName": false,
+		"isBankBicMandatory": false,
+		"isBankInnMandatory": false,
+		"isBankSwift": true,
+		"currencySymbol": "EUR"
+	},
+	"analytics": [
+		{
+			"datatype": "analytics",
+			"platform": "iPad",
+			"version": "1",
+			"id": "UA-18083935-4",
+			"anonymizeIp": "0",
+			"host": " ipad-ios-app.zara.com",
+			"isAnAvRequired": false,
+			"isScRequired": false,
+			"isUidRequired": true
+		},
+		{
+			"datatype": "analytics",
+			"platform": "Blackberry",
+			"version": "1",
+			"id": "UA-18083935-4",
+			"anonymizeIp": "0",
+			"host": "bb10-app.zara.com",
+			"isAnAvRequired": false,
+			"isScRequired": false,
+			"isUidRequired": true
+		},
+		{
+			"datatype": "analytics",
+			"platform": "iPhone",
+			"version": "1",
+			"id": "UA-18083935-4",
+			"anonymizeIp": "0",
+			"host": "iphone-ios-app.zara.com",
+			"isAnAvRequired": false,
+			"isScRequired": false,
+			"isUidRequired": true
+		},
+		{
+			"datatype": "analytics",
+			"platform": "Unknown",
+			"version": "",
+			"id": "UA-36327727-1",
+			"anonymizeIp": "",
+			"host": "",
+			"isAnAvRequired": false,
+			"isScRequired": false,
+			"isUidRequired": false
+		},
+		{
+			"datatype": "analytics",
+			"platform": "WebStandard",
+			"version": "1",
+			"id": "UA-18083935-1",
+			"anonymizeIp": "0",
+			"host": "web-pc.zara.com",
+			"isAnAvRequired": false,
+			"isScRequired": true,
+			"isUidRequired": true
+		},
+		{
+			"datatype": "analytics",
+			"platform": "WindowsPhone",
+			"version": "1",
+			"id": "UA-18083935-4",
+			"anonymizeIp": "0",
+			"host": "wp-app.zara.com",
+			"isAnAvRequired": false,
+			"isScRequired": false,
+			"isUidRequired": true
+		},
+		{
+			"datatype": "analytics",
+			"platform": "Android",
+			"version": "1",
+			"id": "UA-18083935-4",
+			"anonymizeIp": "0",
+			"host": "android-app.zara.com",
+			"isAnAvRequired": false,
+			"isScRequired": false,
+			"isUidRequired": true
+		},
+		{
+			"datatype": "analytics",
+			"platform": "WebMobile",
+			"version": "1",
+			"id": "UA-18083935-1",
+			"anonymizeIp": "0",
+			"host": "web-mobile.zara.com",
+			"isAnAvRequired": false,
+			"isScRequired": false,
+			"isUidRequired": true,
+			"cookieDomain": ".zara.com"
+		},
+		{
+			"datatype": "analytics",
+			"platform": "Windows8",
+			"version": "1",
+			"id": "UA-18083935-4",
+			"anonymizeIp": "0",
+			"host": "w8-app.zara.com",
+			"isAnAvRequired": false,
+			"isScRequired": false,
+			"isUidRequired": true
+		}
+	],
+	"sharingMethods": [
+		"pinterest",
+		"facebook",
+		"twitter"
+	],
+	"supportedLanguages": [
+		{
+			"id": -5,
+			"name": "EspaÃ±ol",
+			"code": "es",
+			"countryName": "EspaÃ±a",
+			"locale": "es_ES",
+			"formats": {
+				"number": {
+					"decimalSeparator": ",",
+					"thousandsSeparator": "."
+				},
+				"date": {
+					"shortDate": "dd/MM/yyyy",
+					"longDate": "dd/MM/yyyy H:mm:ss"
+				}
+			}
+		},
+		{
+			"id": -13,
+			"name": "CatalÃ ",
+			"code": "ca",
+			"countryName": "Espanya / Spain",
+			"locale": "ca_ES",
+			"formats": {
+				"number": {
+					"decimalSeparator": ",",
+					"thousandsSeparator": "."
+				},
+				"date": {
+					"shortDate": "dd/MM/yyyy",
+					"longDate": "dd/MM/yyyy H:mm:ss"
+				}
+			}
+		},
+		{
+			"id": -12,
+			"name": "Galego",
+			"code": "gl",
+			"countryName": "EspaÃ±a",
+			"locale": "gl_ES",
+			"formats": {
+				"number": {
+					"decimalSeparator": ".",
+					"thousandsSeparator": ","
+				},
+				"date": {
+					"shortDate": "MMM dd,yy",
+					"longDate": "MMM dd,yy HH:mm:ss"
+				}
+			}
+		},
+		{
+			"id": -11,
+			"name": "Euskara",
+			"code": "eu",
+			"countryName": "Espainia / Spain",
+			"locale": "eu_ES",
+			"formats": {
+				"number": {
+					"decimalSeparator": ".",
+					"thousandsSeparator": ","
+				},
+				"date": {
+					"shortDate": "yy'-'MMM'-'dd",
+					"longDate": "yy'-'MMM'-'dd HH:mm:ss"
+				}
+			}
+		},
+		{
+			"id": -1,
+			"name": "English",
+			"code": "en",
+			"countryName": "Spain",
+			"locale": "en_US",
+			"formats": {
+				"number": {
+					"decimalSeparator": ".",
+					"thousandsSeparator": ","
+				},
+				"date": {
+					"shortDate": "MMM d, yyyy",
+					"longDate": "MMM d, yyyy h:mm:ss a"
+				}
+			}
+		}
+	],
+	"allowedCancelStatus": [
+		"M",
+		"G"
+	],
+	"imageBaseUrl": "https://static.zara.net/photos/",
+	"imageFormats": [
+		{
+			"key": "6",
+			"width": 1024,
+			"height": 1313,
+			"extension": "jpg"
+		},
+		{
+			"key": "4",
+			"width": 257,
+			"height": 330,
+			"extension": "jpg"
+		},
+		{
+			"key": "3",
+			"width": 395,
+			"height": 507,
+			"extension": "jpg"
+		},
+		{
+			"key": "2",
+			"width": 700,
+			"height": 898,
+			"extension": "jpg"
+		},
+		{
+			"key": "1",
+			"width": 1920,
+			"height": 2462,
+			"extension": "jpg"
+		}
+	],
+	"landscapeImageFormats": [
+		{
+			"key": "6",
+			"width": 1024,
+			"height": 614,
+			"extension": "jpg"
+		},
+		{
+			"key": "4",
+			"width": 480,
+			"height": 288,
+			"extension": "jpg"
+		},
+		{
+			"key": "3",
+			"width": 600,
+			"height": 360,
+			"extension": "jpg"
+		},
+		{
+			"key": "2",
+			"width": 960,
+			"height": 576,
+			"extension": "jpg"
+		},
+		{
+			"key": "1",
+			"width": 1920,
+			"height": 1152,
+			"extension": "jpg"
+		}
+	],
+	"xmediaFormats": [
+		{
+			"datatype": "xmediaFormat",
+			"id": 1,
+			"set": 2,
+			"type": "image",
+			"name": "MEGAZOOM",
+			"description": "Megazoom",
+			"codecs": "JPEG",
+			"extension": "jpg",
+			"width": 1920
+		},
+		{
+			"datatype": "xmediaFormat",
+			"id": 2,
+			"set": 2,
+			"type": "image",
+			"name": "ZOOM",
+			"description": "Zoom",
+			"codecs": "JPEG",
+			"extension": "jpg",
+			"width": 560
+		},
+		{
+			"datatype": "xmediaFormat",
+			"id": 3,
+			"set": 2,
+			"type": "image",
+			"name": "DETAIL",
+			"description": "Detail",
+			"codecs": "JPEG",
+			"extension": "jpg",
+			"width": 400
+		},
+		{
+			"datatype": "xmediaFormat",
+			"id": 4,
+			"set": 2,
+			"type": "image",
+			"name": "STANDARD",
+			"description": "Standard",
+			"codecs": "JPEG",
+			"extension": "jpg",
+			"width": 200
+		},
+		{
+			"datatype": "xmediaFormat",
+			"id": 5,
+			"set": 2,
+			"type": "image",
+			"name": "THUMB",
+			"description": "Thumb",
+			"codecs": "JPEG",
+			"extension": "jpg",
+			"width": 135
+		},
+		{
+			"datatype": "xmediaFormat",
+			"id": 6,
+			"set": 2,
+			"type": "image",
+			"name": "MOBILE",
+			"description": "Mobile",
+			"codecs": "JPEG",
+			"extension": "jpg",
+			"width": 1024
+		},
+		{
+			"datatype": "xmediaFormat",
+			"id": 12,
+			"set": 2,
+			"type": "png",
+			"name": "PNG",
+			"description": "Imagen transparente",
+			"codecs": "png",
+			"extension": "png",
+			"width": 800
+		},
+		{
+			"datatype": "xmediaFormat",
+			"id": 13,
+			"set": 2,
+			"type": "video",
+			"name": "WEBM_MEGAZOOM",
+			"description": "Video WEBM Megazoom",
+			"codecs": "vp8.0,vorbis",
+			"extension": "webm",
+			"width": 1920,
+			"quality": 250
+		},
+		{
+			"datatype": "xmediaFormat",
+			"id": 14,
+			"set": 2,
+			"type": "video",
+			"name": "WEBM_ZOOM",
+			"description": "Video WEBM Zoom",
+			"codecs": "vp8.0,vorbis",
+			"extension": "webm",
+			"width": 560,
+			"quality": 250
+		},
+		{
+			"datatype": "xmediaFormat",
+			"id": 15,
+			"set": 2,
+			"type": "video",
+			"name": "WEBM_DETAIL",
+			"description": "Video WEBM Detail",
+			"codecs": "vp8.0,vorbis",
+			"extension": "webm",
+			"width": 400,
+			"quality": 250
+		},
+		{
+			"datatype": "xmediaFormat",
+			"id": 16,
+			"set": 2,
+			"type": "video",
+			"name": "WEBM_STANDARD",
+			"description": "Video WEBM Standard",
+			"codecs": "vp8.0,vorbis",
+			"extension": "webm",
+			"width": 200,
+			"quality": 250
+		},
+		{
+			"datatype": "xmediaFormat",
+			"id": 17,
+			"set": 2,
+			"type": "video",
+			"name": "WEBM_THUMB",
+			"description": "Video WEBM Thumb",
+			"codecs": "vp8.0,vorbis",
+			"extension": "webm",
+			"width": 135,
+			"quality": 250
+		},
+		{
+			"datatype": "xmediaFormat",
+			"id": 18,
+			"set": 2,
+			"type": "video",
+			"name": "WEBM_MOBILE",
+			"description": "Video WEBM Mobile",
+			"codecs": "vp8.0,vorbis",
+			"extension": "webm",
+			"width": 1024,
+			"quality": 250
+		},
+		{
+			"datatype": "xmediaFormat",
+			"id": 19,
+			"set": 2,
+			"type": "video",
+			"name": "MPEG4_MEGAZOOM",
+			"description": "Video MPEG4 Megazoom",
+			"codecs": "avc1.4d401f",
+			"extension": "mp4",
+			"width": 1920,
+			"quality": 400
+		},
+		{
+			"datatype": "xmediaFormat",
+			"id": 20,
+			"set": 2,
+			"type": "video",
+			"name": "MPEG4_ZOOM",
+			"description": "Video MPEG4 Zoom",
+			"codecs": "avc1.4d401f",
+			"extension": "mp4",
+			"width": 560,
+			"quality": 400
+		},
+		{
+			"datatype": "xmediaFormat",
+			"id": 21,
+			"set": 2,
+			"type": "video",
+			"name": "MPEG4_DETAIL",
+			"description": "Video MPEG4 Detail",
+			"codecs": "avc1.4d401f",
+			"extension": "mp4",
+			"width": 400,
+			"quality": 400
+		},
+		{
+			"datatype": "xmediaFormat",
+			"id": 22,
+			"set": 2,
+			"type": "video",
+			"name": "MPEG4_STANDARD2",
+			"description": "Video MPEG4 Standard 2",
+			"codecs": "avc1.4d401f",
+			"extension": "mp4",
+			"width": 200,
+			"quality": 400
+		},
+		{
+			"datatype": "xmediaFormat",
+			"id": 23,
+			"set": 2,
+			"type": "video",
+			"name": "MPEG4_THUMB",
+			"description": "Video MPEG4 Thumb",
+			"codecs": "avc1.4d401f",
+			"extension": "mp4",
+			"width": 135,
+			"quality": 400
+		},
+		{
+			"datatype": "xmediaFormat",
+			"id": 24,
+			"set": 2,
+			"type": "video",
+			"name": "MPEG4_MOBILE",
+			"description": "Video MPEG4 Mobile",
+			"codecs": "avc1.4d401f",
+			"extension": "mp4",
+			"width": 1024,
+			"quality": 400
+		},
+		{
+			"datatype": "xmediaFormat",
+			"id": 25,
+			"set": 2,
+			"type": "vector",
+			"name": "VECTOR_SVG",
+			"description": "Imagen vectorial svg",
+			"codecs": "svg",
+			"extension": "svg",
+			"width": 800
+		},
+		{
+			"datatype": "xmediaFormat",
+			"id": 26,
+			"set": 2,
+			"type": "vector",
+			"name": "VECTOR_PDF",
+			"description": "Imagen vectorial pdf",
+			"codecs": "pdf",
+			"extension": "pdf",
+			"width": 800
+		}
+	],
+	"xmediaTransformations": [
+		{
+			"name": "joinlife",
+			"type": "watermark",
+			"meta": {
+				"xmedia": [
+					{
+						"allowedScreens": [
+							"small"
+						],
+						"height": 505,
+						"kind": "other",
+						"name": "joinlife-small",
+						"path": "mkt/misc/watermarks/joinlife",
+						"set": 2,
+						"timestamp": "1516214201451",
+						"type": "vector",
+						"width": 2560
+					},
+					{
+						"allowedScreens": [
+							"small"
+						],
+						"height": 245,
+						"kind": "double",
+						"name": "joinlife-small-double",
+						"path": "mkt/misc/watermarks/joinlife",
+						"set": 2,
+						"timestamp": "1516214201451",
+						"type": "vector",
+						"width": 2560
+					},
+					{
+						"allowedScreens": [
+							"large"
+						],
+						"height": 505,
+						"kind": "other",
+						"name": "joinlife-large",
+						"path": "mkt/misc/watermarks/joinlife",
+						"set": 2,
+						"timestamp": "1516214201451",
+						"type": "vector",
+						"width": 2560
+					},
+					{
+						"allowedScreens": [
+							"large"
+						],
+						"height": 245,
+						"kind": "double",
+						"name": "joinlife-large-double",
+						"path": "mkt/misc/watermarks/joinlife",
+						"set": 2,
+						"timestamp": "1516214201451",
+						"type": "vector",
+						"width": 2560
+					}
+				]
+			}
+		},
+		{
+			"name": "joinlife_kids",
+			"type": "watermark",
+			"meta": {
+				"xmedia": [
+					{
+						"allowedScreens": [
+							"small"
+						],
+						"height": 505,
+						"kind": "other",
+						"name": "joinlife-kids-small",
+						"path": "mkt/misc/watermarks/joinlife",
+						"set": 2,
+						"timestamp": "1516214201451",
+						"type": "vector",
+						"width": 2560
+					},
+					{
+						"allowedScreens": [
+							"small"
+						],
+						"height": 245,
+						"kind": "double",
+						"name": "joinlife-kids-small-double",
+						"path": "mkt/misc/watermarks/joinlife",
+						"set": 2,
+						"timestamp": "1516214201451",
+						"type": "vector",
+						"width": 2560
+					},
+					{
+						"allowedScreens": [
+							"large"
+						],
+						"height": 505,
+						"kind": "other",
+						"name": "joinlife-kids-large",
+						"path": "mkt/misc/watermarks/joinlife",
+						"set": 2,
+						"timestamp": "1516214201451",
+						"type": "vector",
+						"width": 2560
+					},
+					{
+						"allowedScreens": [
+							"large"
+						],
+						"height": 245,
+						"kind": "double",
+						"name": "joinlife-kids-large-double",
+						"path": "mkt/misc/watermarks/joinlife",
+						"set": 2,
+						"timestamp": "1516214201451",
+						"type": "vector",
+						"width": 2560
+					}
+				]
+			}
+		}
+	],
+	"videoBaseUrl": "http://static.zara.net/video/",
+	"supportEmail": "contact.es@zara.com",
+	"supportPhone": "900 814 900",
+	"directory": "ZARA_ES",
+	"eula": {
+		"url": "https://static.zara.net/static//pdfs/ES/terms-and-conditions/terms-and-conditions-en_ES-20171102.pdf",
+		"version": "1509580800000"
+	},
+	"privacy": {
+		"extendedPolicies": {
+			"personalPrivacy": {
+				"url": "",
+				"version": "1520609428949"
+			},
+			"overseasPrivacy": {
+				"url": "",
+				"version": "1520609428946"
+			},
+			"newsletterPrivacy": {
+				"url": "",
+				"version": "1520609428948"
+			}
+		},
+		"url": "https://static.zara.net/static//pdfs/ES/privacy-policy/privacy-policy-en_ES-20170531.pdf",
+		"version": "1496185200000"
+	},
+	"giftCardTerms": {
+		"url": "https://static.zara.net/static//pdfs/ES/giftcard-conditions/giftcard-conditions-en_ES-20170621.pdf",
+		"version": "1497999600000"
+	},
+	"statesVersion": "1.1",
+	"catalogKey": "SE:V2018",
+	"catalogId": 24551,
+	"deviceFingerprint": {
+		"hostname": "h.online-metrix.net",
+		"merchantId": "inditex_dm",
+		"organizationId": "k8vif92e",
+		"deviceFingerPrintFlashActive": false,
+		"alipayJavascriptRiskUrl": "https://rds.alipay.com/merchant/merchant.js",
+		"giftcardFraudCheckActive": false,
+		"fraudCybersourceBasicMerchantId": "tarjetaregalo_dm"
+	},
+	"isAkamaiGeolocationRedirectAvailable": false,
+	"akamaiGeolocationService": "http://www.zara.com/webapp/wcs/stores/servlet/ContentTargettingJSON",
+	"hasUserPreferredLanguage": true,
+	"isReturnReasonsAvailable": true,
+	"giftCardStepSliderValue": 4,
+	"hidenContactFormComboOpts": [
+		"false"
+	],
+	"colbensonUrl": "https://sbzara.empathybroker.com/sb-zara",
+	"httpStoreAddressService": "http://dmaps.daum.net/map_js_init/postcode.js",
+	"httpsStoreAddressService": "https://spi.maps.daum.net/imap/map_js_init/postcode.js",
+	"showPrivacityPolicyCookies": true,
+	"isSellWatchesEnabled": false,
+	"estimatedShippingCharge": 0,
+	"isAddressAutocompleteActive": true,
+	"googleAddressAutocompleteKey": "gme-itxecommerceireland",
+	"availableStoreReturnProcess": false,
+	"guestShopping": {
+		"isEnabled": true,
+		"supportedChannels": [
+			"web",
+			"web_mobile",
+			"app"
+		]
+	},
+	"pickUpPointService": {
+		"postnord": {
+			"apiKey": "0",
+			"baseUrl": "//",
+			"searchResultsLimit": 10,
+			"checkUrl": "//"
+		},
+		"sevenEleven": {
+			"baseUrl": {
+				"desktop": "http://emap.shopping7.com.tw/emap/emapu8.ashx",
+				"mobile": "http://emap.shopping7.com.tw/emap/emapmobileu.ashx"
+			},
+			"eshopId": "888",
+			"serviceType": "3",
+			"callbackUrl": "http://www.zara.com/itxrest/1/order/store/{storeId}/order/{orderId}/shipping/7eleven"
+		},
+		"apiKey": "0",
+		"baseUrl": "//",
+		"checkUrl": "//",
+		"searchResultsLimit": 10
+	},
+	"iphoneAppId": "547951480",
+	"isPromotioniOSActive": true,
+	"baiduConVertBaseUrl": "http://api.map.baidu.com/geoconv/v1/",
+	"baiduKey": "FxyFDqzMy9R6ba4vbWlD1Ijr",
+	"baiduMapBaseUrl": "http://api.map.baidu.com/api",
+	"baiduMapGPSTranslationUrl": "BAIDU_MAP_GPS_TRANSLATION_URL",
+	"googleMapKey": "ABQIAAAAuLM0t2_kkFjBTv19NCnv4xQ1eARysJDSA6Rsmys1__vV4q3ogRSAPpMJQEtE6PZS8bUt68TqwWpmdA",
+	"googleMapChannel": "Zara",
+	"googleMapUser": "gme-itxecommerceireland",
+	"virtualGiftCardMinTimeToSend": 180,
+	"searchLengthToAutocomplete": 1,
+	"eguiData": {
+		"isEnabled": false,
+		"donationEntitiesListBaseUrl": "https://www.einvoice.nat.gov.tw/APMEMBERVAN/XcaOrgPreserveCodeQuery/XcaOrgPreserveCodeQuery",
+		"assignTitleBaseUrl": "https://www.einvoice.nat.gov.tw/APMEMBERVAN/membercardlogin"
+	},
+	"isFacebookOrderConversionEnabled": true,
+	"facebookOrderConversionId": "969087516477356",
+	"searchTrackingCodeRequired": false,
+	"sem": {
+		"exelution": {
+			"enabled": false,
+			"accountId": "E66954263491E2CBDFEFBCE1D460BC3D",
+			"baseUrl": "https://zara.media01.eu/"
+		}
+	},
+	"isOpenProductPageInNewTab": false,
+	"isShowTaxesRequired": true,
+	"support": {
+		"chat": {
+			"isChatEnabled": false,
+			"isMochatEnabled": true,
+			"registeredChatBasePath": "http://static.zara.net/static/chat_cn/",
+			"itxWebChatMainUrl": "https://www.zara.com/static/applications/chat/index.html",
+			"integratedChatLangIds": [
+				-5
+			],
+			"integratedChatUrl": "https://static.zara.net/static/applications/chat-v2/launcher-std-v2.js"
+		},
+		"clickToCall": {
+			"clickToCallBaseUrl": "https://ctc.zara.com/CCPROCTC/ClickToCallRequest.jsp?Idioma={langId}&UserDefined6={countryId}&UserDefined7={originId}&ProductId={productCode}",
+			"clickToCallLangsId": [
+			],
+			"clickToCallLangs": [
+			]
+		},
+		"isContactPopupEnable": true,
+		"miniContactAvailableContext": "",
+		"productsCategoryNamePosition": 4,
+		"onlineExchange": {
+			"enabledChannels": [
+				"web",
+				"web_mobile",
+				"app"
+			],
+			"isEnabled": true,
+			"isShippingEditable": true,
+			"maxExchangeUnitsCount": 5,
+			"isNewWindowForGuestAvailable": false
+		},
+		"webClientPerformanceMonitoring": {
+			"enabled": true,
+			"webMobileKey": "UN7DK-GDTLV-TRET5-VABKB-AFMLC",
+			"webStandardKey": "KAZLT-VPAY6-9BKL5-JEPJR-ULDBV"
+		},
+		"isContactLegalMessageRequired": false,
+		"showPrivacyLinks": true,
+		"adoptLegalChangesInOrderInfo": false,
+		"forceHttps": [
+			"mobile",
+			"desktop"
+		],
+		"abTesting": {
+			"enabled": true,
+			"enabledChannels": [
+				"web",
+				"web-mobile"
+			],
+			"webMobileClientKey": "2984620232",
+			"webStandardClientKey": "151300895",
+			"appsClientKey": ""
+		},
+		"conversionIntegration": {
+			"facebook": {
+				"enabled": true,
+				"accountId": "969087516477356",
+				"scriptUrl": "https://connect.facebook.net/en_US/fbevents.js"
+			},
+			"adWords": {
+				"enabled": false,
+				"accountId": "",
+				"format": "3",
+				"label": "",
+				"color": "ffffff",
+				"scriptUrl": "https://www.googleadservices.com/pagead/conversion.js",
+				"baseImageUrl": "https://www.googleadservices.com/pagead/conversion/"
+			},
+			"yahoo": {
+				"enabled": false,
+				"accountId": "",
+				"conversionId": "",
+				"label": "LABEL12345",
+				"scriptUrl": "",
+				"baseImageUrl": ""
+			}
+		},
+		"productsSearch": {
+			"provider": "colbenson",
+			"urls": {
+				"ping": "https://api.empathybroker.com/tagging/v1/ping",
+				"search": "https://api.empathybroker.com/search/v1/query/zara/search",
+				"autocomplete": "https://api.empathybroker.com/search/v1/query/zara/autocomplete"
+			}
+		},
+		"dropPoints": {
+			"showCode": false
+		},
+		"fraudConfig": {
+			"isRiskifiedActive": false
+		},
+		"orderProcess": {
+			"restylingCheckoutStatus": "live",
+			"restylingCheckoutUrl": "https://static.zara.net/static/applications/checkout-restyling/css/redesign.css",
+			"restylingLegacyCheckoutUrl": "https://static.zara.net/static/applications/checkout-restyling/css/redesign-checkout.css"
+		},
+		"isGiftCardExpirationDisclaimerRequired": false,
+		"qubit": {
+			"isQubitEnabled": false,
+			"qubitScriptUrl": "https://static.goqubit.com/smartserve-5089.js"
+		},
+		"wideEyes": {
+			"host": "pro.api-mirror.wide-eyes.it",
+			"apiKey": "XXXXXXX",
+			"wearItWith": {
+				"enabledChannels": [
+					"app",
+					"web",
+					"web_mobile"
+				],
+				"enabledSections": [
+					1,
+					2,
+					3
+				]
+			}
+		},
+		"payment": {
+			"creditCardExpirationMonthsThresold": 1,
+			"offlineExpirationDelayTime": 1440,
+			"isShowPaymentExchangeWarningEnable": false
+		},
+		"donation": {
+			"isTermsLinkEnabled": false
+		},
+		"legalDocuments": [
+			{
+				"kind": "PRIVACY_POLICY",
+				"label": "Privacy policy",
+				"url": "https://static.zara.net/static//pdfs/ES/privacy-policy/privacy-policy-en_ES-20170531.pdf",
+				"version": "1496185200000",
+				"visibleAt": [
+					"home"
+				]
+			},
+			{
+				"kind": "TERMS_AND_CONDITIONS",
+				"label": "Terms of use",
+				"url": "https://static.zara.net/static//pdfs/ES/terms-and-conditions/terms-and-conditions-en_ES-20171102.pdf",
+				"version": "1509580800000",
+				"visibleAt": [
+					"home"
+				]
+			},
+			{
+				"kind": "GIFTCARD_TERMS",
+				"label": "Gift Card Conditions",
+				"url": "https://static.zara.net/static//pdfs/ES/giftcard-conditions/giftcard-conditions-en_ES-20170621.pdf",
+				"version": "1497999600000",
+				"visibleAt": [
+					""
+				]
+			}
+		]
+	},
+	"sliderStep": 20,
+	"sliderMaxPrice": 200,
+	"relatedStores": [
+		{
+			"languageIso": "es",
+			"countryIso": "IC",
+			"storeDisplayName": "Canary Islands",
+			"langId": -5,
+			"storeId": 11201
+		}
+	],
+	"isShowColorCutsOnCategory": true,
+	"isStockClearanceActive": true,
+	"SEOMappingValue": "es",
+	"facebookAppId": "172751072777664",
+	"addressSearchEngine": {
+		"daum": {
+			"clientServiceUrl": "https://spi.maps.daum.net/imap/map_js_init/postcode.v2.js"
+		}
+	},
+	"isShowPaymentExchangeWarningEnable": false,
+	"isShowPriceTaxMessageRequired": false,
+	"isPersistentSessionEnabled": true,
+	"persistentSessionCookieLifetime": 365,
+	"isCompanyRegistrationNumberRequired": false,
+	"isPaperlessShipmentEnabled": true,
+	"isRefundBankSearchAvailable": false,
+	"manageEmployeeDisscounts": false,
+	"isBAMWalletAvailable": true,
+	"isDonationEnabled": true,
+	"isDonationFilterEnabled": true,
+	"isGiftcardDetailRequired": true,
+	"sizeRecommender": {
+		"isSizeRecommenderEnabled": true,
+		"sizeRecommenderDesktopScript": "//widget.fitanalytics.com/widget.js",
+		"sizeRecommenderMobileScript": "//widget.fitanalytics.com/widget_jq.js",
+		"sizeRecommenderPurchaseScript": "//collector.fitanalytics.com/report_purchase.js"
+	},
+	"paginateCategories": [
+	],
+	"isSmsConsentRequired": false
+}

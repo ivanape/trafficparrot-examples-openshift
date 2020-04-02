@@ -1,0 +1,707 @@
+{
+  "id": {{request.path.[8]}},
+  "kind": "VirtualGiftCard",
+  "sectionName": "WOMAN",
+  "categoryId": 358026,
+  "displayReference": "0001/000",
+  "reference": "50001000-I9999",
+  "name": "E-GIFT CARD",
+  "isBuyable": true,
+  "price": 6300,
+  "seo": {
+    "keyword": "e-gift-card",
+    "seoProductId": "50001000"
+  },
+  "colors": [
+    {
+      "id": "000",
+      "colorName": "000",
+      "stylingId": "0",
+      "colorGammas": [],
+      "features": [],
+      "qualities": [],
+      "xmedia": [
+        {
+          "datatype": "xmedia",
+          "set": 2,
+          "type": "image",
+          "kind": "full",
+          "path": "/9999/I/5/3/p/0001/000/000/2",
+          "name": "0001000000_1_1_1",
+          "width": 936,
+          "height": 1496,
+          "timestamp": "1481549265358",
+          "allowedScreens": [
+            "small",
+            "large"
+          ],
+          "locations": [
+            {
+              "name": "SHOPCART_PAGE",
+              "order": 0
+            },
+            {
+              "name": "BUNDLE_COMPONENT",
+              "order": 0
+            },
+            {
+              "name": "MINI_SHOPCART",
+              "order": 0
+            },
+            {
+              "name": "RELATED_PRODUCT",
+              "order": 0
+            },
+            {
+              "name": "CATEGORY_PAGE",
+              "order": 1
+            }
+          ]
+        },
+        {
+          "datatype": "xmedia",
+          "set": 2,
+          "type": "image",
+          "kind": "other",
+          "path": "/9999/I/5/3/p/0001/000/000/2",
+          "name": "0001000000_2_1_1",
+          "width": 3612,
+          "height": 2612,
+          "timestamp": "1485451112970",
+          "allowedScreens": [
+            "small",
+            "large"
+          ],
+          "locations": [
+            {
+              "name": "CATEGORY_PAGE",
+              "order": 0
+            },
+            {
+              "name": "PRODUCT_PAGE",
+              "order": 0
+            }
+          ]
+        },
+        {
+          "datatype": "xmedia",
+          "set": 2,
+          "type": "image",
+          "kind": "other",
+          "path": "/9999/I/5/3/p/0001/000/000/2",
+          "name": "0001000000_2_2_1",
+          "width": 1299,
+          "height": 1610,
+          "timestamp": "1482164900539",
+          "allowedScreens": [
+            "small",
+            "large"
+          ],
+          "locations": [
+            {
+              "name": "CATEGORY_PAGE",
+              "order": 2
+            }
+          ]
+        },
+        {
+          "datatype": "xmedia",
+          "set": 2,
+          "type": "image",
+          "kind": "other",
+          "path": "/9999/I/5/3/p/0001/000/000/2",
+          "name": "0001000000_2_3_1",
+          "width": 1299,
+          "height": 1610,
+          "timestamp": "1482164905447",
+          "allowedScreens": [
+            "small",
+            "large"
+          ],
+          "locations": [
+            {
+              "name": "CATEGORY_PAGE",
+              "order": 5
+            }
+          ]
+        },
+        {
+          "datatype": "xmedia",
+          "set": 2,
+          "type": "image",
+          "kind": "other",
+          "path": "/9999/I/5/3/p/0001/000/000/2",
+          "name": "0001000000_2_4_1",
+          "width": 1299,
+          "height": 1610,
+          "timestamp": "1482164911712",
+          "allowedScreens": [
+            "small",
+            "large"
+          ],
+          "locations": [
+            {
+              "name": "CATEGORY_PAGE",
+              "order": 4
+            }
+          ]
+        },
+        {
+          "datatype": "xmedia",
+          "set": 2,
+          "type": "image",
+          "kind": "other",
+          "path": "/9999/I/5/3/p/0001/000/000/2",
+          "name": "0001000000_2_5_1",
+          "width": 1299,
+          "height": 1436,
+          "timestamp": "1485451117626",
+          "allowedScreens": [
+            "small",
+            "large"
+          ],
+          "locations": [
+            {
+              "name": "CATEGORY_PAGE",
+              "order": 3
+            }
+          ]
+        },
+        {
+          "datatype": "xmedia",
+          "set": 2,
+          "type": "image",
+          "kind": "colorcut",
+          "path": "/9999/I/5/3/p/0001/000/000/2",
+          "name": "0001000000_3_1_1",
+          "width": 936,
+          "height": 1496,
+          "timestamp": "1481549273162",
+          "allowedScreens": [
+            "small",
+            "large"
+          ],
+          "locations": [
+            {
+              "name": "PRODUCT_PAGE",
+              "order": 1
+            }
+          ]
+        }
+      ],
+      "sizes": [
+        {
+          "sizeId": 1,
+          "sku": 1000200,
+          "reference":"0107430025105-V2018",
+          "price": 3400,
+          "availability": "in_stock"
+        },
+        {
+          "sizeId": 2,
+          "sku": 1016024,
+          "reference":"0107430025105-V2018",
+          "price": 4500,
+          "availability": "in_stock"
+        },
+        {
+          "sizeId": 3,
+          "sku": 1016025,
+          "reference": "5000100000003-I9999",
+          "price": 5100,
+          "availability": "in_stock"
+        },
+        {
+          "sizeId": 4,
+          "sku": 1016026,
+          "reference": "5000100000004-I9999",
+          "price": 6300,
+          "availability": "in_stock"
+        },
+        {
+          "sizeId": 21,
+          "sku": 2806003,
+          "reference": "5000100000021-I9999",
+          "price": 700,
+          "availability": "in_stock"
+        }
+      ]
+    },
+    {
+      "id": "100",
+      "colorName": "100",
+      "stylingId": "0",
+      "colorGammas": [],
+      "features": [],
+      "qualities": [],
+      "xmedia": [
+        {
+          "datatype": "xmedia",
+          "set": 2,
+          "type": "image",
+          "kind": "full",
+          "path": "/9999/I/5/3/p/0001/000/100/2",
+          "name": "0001000100_1_1_1",
+          "width": 1920,
+          "height": 3072,
+          "timestamp": "1485451127873",
+          "allowedScreens": [
+            "small",
+            "large"
+          ],
+          "locations": [
+            {
+              "name": "SHOPCART_PAGE",
+              "order": 0
+            },
+            {
+              "name": "BUNDLE_COMPONENT",
+              "order": 0
+            },
+            {
+              "name": "MINI_SHOPCART",
+              "order": 0
+            },
+            {
+              "name": "RELATED_PRODUCT",
+              "order": 0
+            }
+          ]
+        },
+        {
+          "datatype": "xmedia",
+          "set": 2,
+          "type": "image",
+          "kind": "other",
+          "path": "/9999/I/5/3/p/0001/000/100/2",
+          "name": "0001000100_2_1_1",
+          "width": 1920,
+          "height": 1388,
+          "timestamp": "1485451122367",
+          "allowedScreens": [
+            "small",
+            "large"
+          ],
+          "locations": [
+            {
+              "name": "CATEGORY_PAGE",
+              "order": 0
+            },
+            {
+              "name": "PRODUCT_PAGE",
+              "order": 0
+            }
+          ]
+        },
+        {
+          "datatype": "xmedia",
+          "set": 2,
+          "type": "image",
+          "kind": "colorcut",
+          "path": "/9999/I/5/3/p/0001/000/100/2",
+          "name": "0001000100_3_1_1",
+          "width": 1920,
+          "height": 3072,
+          "timestamp": "1485451133605",
+          "allowedScreens": [
+            "small",
+            "large"
+          ],
+          "locations": [
+            {
+              "name": "PRODUCT_PAGE",
+              "order": 1
+            }
+          ]
+        }
+      ],
+      "sizes": [
+        {
+          "sizeId": 1,
+          "sku": 1016027,
+          "reference": "5000100010001-I9999",
+          "price": 1600,
+          "availability": "in_stock"
+        },
+        {
+          "sizeId": 2,
+          "sku": 1016028,
+          "reference": "5000100010002-I9999",
+          "price": 1100,
+          "availability": "in_stock"
+        },
+        {
+          "sizeId": 3,
+          "sku": 1016029,
+          "reference": "5000100010003-I9999",
+          "price": 4900,
+          "availability": "in_stock"
+        },
+        {
+          "sizeId": 4,
+          "sku": 1016030,
+          "reference": "5000100010004-I9999",
+          "price": 2800,
+          "availability": "in_stock"
+        }
+      ]
+    },
+    {
+      "id": "200",
+      "colorName": "Blue / Indigo",
+      "stylingId": "0",
+      "colorGammas": [],
+      "features": [],
+      "qualities": [],
+      "xmedia": [
+        {
+          "datatype": "xmedia",
+          "set": 2,
+          "type": "image",
+          "kind": "full",
+          "path": "/9999/I/5/3/p/0001/000/200/2",
+          "name": "0001000200_1_1_1",
+          "width": 932,
+          "height": 1490,
+          "timestamp": "1478626310454",
+          "allowedScreens": [
+            "small",
+            "large"
+          ],
+          "locations": [
+            {
+              "name": "SHOPCART_PAGE",
+              "order": 0
+            },
+            {
+              "name": "BUNDLE_COMPONENT",
+              "order": 0
+            },
+            {
+              "name": "MINI_SHOPCART",
+              "order": 0
+            },
+            {
+              "name": "RELATED_PRODUCT",
+              "order": 0
+            }
+          ]
+        },
+        {
+          "datatype": "xmedia",
+          "set": 2,
+          "type": "image",
+          "kind": "other",
+          "path": "/9999/I/5/3/p/0001/000/200/2",
+          "name": "0001000200_2_1_1",
+          "width": 3612,
+          "height": 2612,
+          "timestamp": "1478626300866",
+          "allowedScreens": [
+            "small",
+            "large"
+          ],
+          "locations": [
+            {
+              "name": "CATEGORY_PAGE",
+              "order": 0
+            },
+            {
+              "name": "PRODUCT_PAGE",
+              "order": 0
+            }
+          ]
+        },
+        {
+          "datatype": "xmedia",
+          "set": 2,
+          "type": "image",
+          "kind": "colorcut",
+          "path": "/9999/I/5/3/p/0001/000/200/2",
+          "name": "0001000200_3_1_1",
+          "width": 932,
+          "height": 1490,
+          "timestamp": "1478626319575",
+          "allowedScreens": [
+            "small",
+            "large"
+          ],
+          "locations": [
+            {
+              "name": "PRODUCT_PAGE",
+              "order": 1
+            }
+          ]
+        }
+      ],
+      "sizes": [
+        {
+          "sizeId": 1,
+          "sku": 1016032,
+          "reference": "5000100020001-I9999",
+          "price": 400,
+          "availability": "in_stock"
+        },
+        {
+          "sizeId": 2,
+          "sku": 1016033,
+          "reference": "5000100020002-I9999",
+          "price": 4700,
+          "availability": "in_stock"
+        },
+        {
+          "sizeId": 3,
+          "sku": 1016034,
+          "reference": "5000100020003-I9999",
+          "price": 3400,
+          "availability": "in_stock"
+        },
+        {
+          "sizeId": 4,
+          "sku": 1016031,
+          "reference": "5000100020004-I9999",
+          "price": 600,
+          "availability": "in_stock"
+        }
+      ]
+    },
+    {
+      "id": "300",
+      "colorName": "Yellow",
+      "stylingId": "0",
+      "colorGammas": [],
+      "features": [],
+      "qualities": [],
+      "xmedia": [
+        {
+          "datatype": "xmedia",
+          "set": 2,
+          "type": "image",
+          "kind": "full",
+          "path": "/9999/I/5/3/p/0001/000/300/2",
+          "name": "0001000300_1_1_1",
+          "width": 1920,
+          "height": 3072,
+          "timestamp": "1485451144501",
+          "allowedScreens": [
+            "small",
+            "large"
+          ],
+          "locations": [
+            {
+              "name": "SHOPCART_PAGE",
+              "order": 0
+            },
+            {
+              "name": "BUNDLE_COMPONENT",
+              "order": 0
+            },
+            {
+              "name": "MINI_SHOPCART",
+              "order": 0
+            },
+            {
+              "name": "RELATED_PRODUCT",
+              "order": 0
+            }
+          ]
+        },
+        {
+          "datatype": "xmedia",
+          "set": 2,
+          "type": "image",
+          "kind": "other",
+          "path": "/9999/I/5/3/p/0001/000/300/2",
+          "name": "0001000300_2_1_1",
+          "width": 1920,
+          "height": 1388,
+          "timestamp": "1485451139093",
+          "allowedScreens": [
+            "small",
+            "large"
+          ],
+          "locations": [
+            {
+              "name": "CATEGORY_PAGE",
+              "order": 0
+            },
+            {
+              "name": "PRODUCT_PAGE",
+              "order": 0
+            }
+          ]
+        },
+        {
+          "datatype": "xmedia",
+          "set": 2,
+          "type": "image",
+          "kind": "colorcut",
+          "path": "/9999/I/5/3/p/0001/000/300/2",
+          "name": "0001000300_3_1_1",
+          "width": 1920,
+          "height": 3072,
+          "timestamp": "1485451150274",
+          "allowedScreens": [
+            "small",
+            "large"
+          ],
+          "locations": [
+            {
+              "name": "PRODUCT_PAGE",
+              "order": 1
+            }
+          ]
+        }
+      ],
+      "sizes": [
+        {
+          "sizeId": 1,
+          "sku": 1016035,
+          "reference": "5000100030001-I9999",
+          "price": 600,
+          "availability": "in_stock"
+        },
+        {
+          "sizeId": 2,
+          "sku": 1016036,
+          "reference": "5000100030002-I9999",
+          "price": 5100,
+          "availability": "in_stock"
+        },
+        {
+          "sizeId": 3,
+          "sku": 1016037,
+          "reference": "5000100030003-I9999",
+          "price": 3400,
+          "availability": "in_stock"
+        },
+        {
+          "sizeId": 4,
+          "sku": 1016038,
+          "reference": "5000100030004-I9999",
+          "price": 1100,
+          "availability": "in_stock"
+        }
+      ]
+    },
+    {
+      "id": "400",
+      "colorName": "Blue",
+      "stylingId": "0",
+      "colorGammas": [],
+      "features": [],
+      "qualities": [],
+      "xmedia": [
+        {
+          "datatype": "xmedia",
+          "set": 2,
+          "type": "image",
+          "kind": "full",
+          "path": "/9999/I/5/3/p/0001/000/400/2",
+          "name": "0001000400_1_1_1",
+          "width": 1920,
+          "height": 3072,
+          "timestamp": "1485451163237",
+          "allowedScreens": [
+            "small",
+            "large"
+          ],
+          "locations": [
+            {
+              "name": "SHOPCART_PAGE",
+              "order": 0
+            },
+            {
+              "name": "BUNDLE_COMPONENT",
+              "order": 0
+            },
+            {
+              "name": "MINI_SHOPCART",
+              "order": 0
+            },
+            {
+              "name": "RELATED_PRODUCT",
+              "order": 0
+            }
+          ]
+        },
+        {
+          "datatype": "xmedia",
+          "set": 2,
+          "type": "image",
+          "kind": "other",
+          "path": "/9999/I/5/3/p/0001/000/400/2",
+          "name": "0001000400_2_1_1",
+          "width": 1920,
+          "height": 1388,
+          "timestamp": "1485451155882",
+          "allowedScreens": [
+            "small",
+            "large"
+          ],
+          "locations": [
+            {
+              "name": "CATEGORY_PAGE",
+              "order": 0
+            },
+            {
+              "name": "PRODUCT_PAGE",
+              "order": 0
+            }
+          ]
+        },
+        {
+          "datatype": "xmedia",
+          "set": 2,
+          "type": "image",
+          "kind": "colorcut",
+          "path": "/9999/I/5/3/p/0001/000/400/2",
+          "name": "0001000400_3_1_1",
+          "width": 1920,
+          "height": 3072,
+          "timestamp": "1485451171422",
+          "allowedScreens": [
+            "small",
+            "large"
+          ],
+          "locations": [
+            {
+              "name": "PRODUCT_PAGE",
+              "order": 1
+            }
+          ]
+        }
+      ],
+      "sizes": [
+        {
+          "sizeId": 1,
+          "sku": 1016039,
+          "reference": "5000100040001-I9999",
+          "price": 200,
+          "availability": "in_stock"
+        },
+        {
+          "sizeId": 2,
+          "sku": 1016040,
+          "reference": "5000100040002-I9999",
+          "price": 3500,
+          "availability": "in_stock"
+        },
+        {
+          "sizeId": 3,
+          "sku": 1016041,
+          "reference": "5000100040003-I9999",
+          "price": 4600,
+          "availability": "in_stock"
+        },
+        {
+          "sizeId": 4,
+          "sku": 1016042,
+          "reference": "5000100040004-I9999",
+          "price": 1400,
+          "availability": "in_stock"
+        }
+      ]
+    }
+  ]
+}

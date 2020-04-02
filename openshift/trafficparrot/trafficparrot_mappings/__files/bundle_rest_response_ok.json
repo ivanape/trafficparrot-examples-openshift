@@ -1,0 +1,257 @@
+{
+  "id": {{request.path.[8]}},
+  "type": "Bundle",
+  "kind": "Unisize",
+  "name": "Set de cuberteria",
+  "bundleProducts": [
+    {
+      "id": 15006041,
+      "sizes": [
+        {
+          "sku": 1000103,
+          "reference": "0107430025105-V2018"
+        },
+        {
+          "sku": 1000104,
+          "reference": "0107430025105-V2018"
+        }
+      ]
+    },
+    {
+      "id": 15006042,
+      "sizes": [
+        {
+          "sku": 1000103,
+          "reference": "0107430025105-V2018"
+        },
+        {
+          "sku": 1000101,
+          "reference": "0107430025105-V2018"
+        },
+        {
+          "sku": 1000102,
+          "reference": "0107430025105-V2018"
+        }
+      ]
+    }
+  ],
+  "seo": {
+    "keyword": "camiseta-b%C3%A1sica-superslim",
+    "seoProductId": "05857443"
+  },
+  "xmedia": [
+    {
+      "datatype": "xmedia",
+      "set": 2,
+      "type": "image",
+      "kind": "plain",
+      "path": "/2018/V/0/2/p/5857/443/250/2",
+      "name": "5857443250_6_1_1",
+      "width": 2479,
+      "height": 3072,
+      "timestamp": "1515489821712",
+      "allowedScreens": [
+        "small",
+        "large"
+      ],
+      "locations": [
+        {
+          "name": "RELATED_PRODUCT",
+          "order": 0
+        },
+        {
+          "name": "BUNDLE_COMPONENT",
+          "order": 0
+        },
+        {
+          "name": "PRODUCT_PAGE",
+          "order": 6
+        }
+      ]
+    },
+    {
+      "datatype": "xmedia",
+      "set": 2,
+      "type": "image",
+      "kind": "other",
+      "path": "/2018/V/0/2/p/5857/443/250/2",
+      "name": "5857443250_2_1_1",
+      "width": 2479,
+      "height": 3072,
+      "timestamp": "1518697017945",
+      "allowedScreens": [
+        "small",
+        "large"
+      ],
+      "locations": [
+        {
+          "name": "CATEGORY_PAGE",
+          "order": 0
+        },
+        {
+          "name": "PRODUCT_PAGE",
+          "order": 1
+        }
+      ]
+    },
+    {
+      "datatype": "xmedia",
+      "set": 2,
+      "type": "image",
+      "kind": "full",
+      "path": "/2018/V/0/2/p/5857/443/250/2",
+      "name": "5857443250_1_1_1",
+      "width": 2479,
+      "height": 3072,
+      "timestamp": "1518697057556",
+      "allowedScreens": [
+        "small",
+        "large"
+      ],
+      "locations": [
+        {
+          "name": "CATEGORY_PAGE",
+          "order": 1
+        },
+        {
+          "name": "PRODUCT_PAGE",
+          "order": 0
+        },
+        {
+          "name": "MINI_SHOPCART",
+          "order": 0
+        },
+        {
+          "name": "SHOPCART_PAGE",
+          "order": 0
+        }
+      ]
+    },
+    {
+      "datatype": "xmedia",
+      "set": 2,
+      "type": "image",
+      "kind": "double",
+      "path": "/2018/V/0/2/p/5857/443/250/2",
+      "name": "5857443250_9_1_1",
+      "width": 5043,
+      "height": 3072,
+      "timestamp": "1519216636186",
+      "allowedScreens": [
+        "small",
+        "large"
+      ],
+      "locations": [
+        {
+          "name": "CATEGORY_PAGE",
+          "order": 2
+        }
+      ]
+    },
+    {
+      "datatype": "xmedia",
+      "set": 2,
+      "type": "image",
+      "kind": "other",
+      "path": "/2018/V/0/2/p/5857/443/250/2",
+      "name": "5857443250_2_2_1",
+      "width": 2479,
+      "height": 3072,
+      "timestamp": "1518697027314",
+      "allowedScreens": [
+        "small",
+        "large"
+      ],
+      "locations": [
+        {
+          "name": "PRODUCT_PAGE",
+          "order": 2
+        }
+      ]
+    },
+    {
+      "datatype": "xmedia",
+      "set": 2,
+      "type": "image",
+      "kind": "other",
+      "path": "/2018/V/0/2/p/5857/443/250/2",
+      "name": "5857443250_2_3_1",
+      "width": 2479,
+      "height": 3072,
+      "timestamp": "1518697037099",
+      "allowedScreens": [
+        "small",
+        "large"
+      ],
+      "locations": [
+        {
+          "name": "PRODUCT_PAGE",
+          "order": 3
+        }
+      ]
+    },
+    {
+      "datatype": "xmedia",
+      "set": 2,
+      "type": "image",
+      "kind": "other",
+      "path": "/2018/V/0/2/p/5857/443/250/2",
+      "name": "5857443250_2_4_1",
+      "width": 2479,
+      "height": 3072,
+      "timestamp": "1518697047415",
+      "allowedScreens": [
+        "small",
+        "large"
+      ],
+      "locations": [
+        {
+          "name": "PRODUCT_PAGE",
+          "order": 4
+        }
+      ]
+    },
+    {
+      "datatype": "xmedia",
+      "set": 2,
+      "type": "image",
+      "kind": "other",
+      "path": "/2018/V/0/2/p/5857/443/250/2",
+      "name": "5857443250_2_6_1",
+      "width": 2479,
+      "height": 3072,
+      "timestamp": "1515489815407",
+      "allowedScreens": [
+        "small",
+        "large"
+      ],
+      "locations": [
+        {
+          "name": "PRODUCT_PAGE",
+          "order": 5
+        }
+      ]
+    },
+    {
+      "datatype": "xmedia",
+      "set": 2,
+      "type": "image",
+      "kind": "colorcut",
+      "path": "/2018/V/0/2/p/5857/443/250/2",
+      "name": "5857443250_3_1_1",
+      "width": 2479,
+      "height": 3072,
+      "timestamp": "1515489835584",
+      "allowedScreens": [
+        "small",
+        "large"
+      ],
+      "locations": [
+        {
+          "name": "PRODUCT_PAGE",
+          "order": 1
+        }
+      ]
+    }
+  ]
+}

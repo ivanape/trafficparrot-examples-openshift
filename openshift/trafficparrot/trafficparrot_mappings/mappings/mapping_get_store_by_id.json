@@ -1,0 +1,16 @@
+{
+    "request": {
+        "urlPathPattern": "/itxrest/([0-9]+)/catalog/store/([0-9]+)",
+        "method": "GET"
+    },
+    "response": {
+        "status": 200,
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "bodyFileName": "store_response_id.json",
+        "transformers": [
+            "response-template"
+        ]
+    }
+}

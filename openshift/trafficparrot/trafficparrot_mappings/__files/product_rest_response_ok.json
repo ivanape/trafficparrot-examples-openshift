@@ -1,0 +1,284 @@
+{
+  "id": {{request.path.[8]}},
+  "kind":"Wear",
+  "brand":{
+    "brandId":1,
+    "brandGroupId":1,
+    "brandGroupCode":"zara"
+  },
+  "categoryId":806507,
+  "displayReference":"1074/300",
+  "reference":"C10743002510-V2018",
+  "name":"VESTIDO ESTAMPADO FLORES",
+  "isBuyable":true,
+  "seo":{
+    "keyword":"vestido-estampado-flores",
+    "seoProductId":"01074300",
+        "discernProductId": "5994192"
+  },
+  "sectionName": "WOMAN",
+  "familyName": "CAZADORA",
+  "subfamilyName": "T.P-EXTER.CORTA",
+  "colors":[
+    {
+      "id":"251",
+      "colorName":"Blanco roto",
+      "stylingId": "11223456",
+      "xmedia":[
+        {
+          "datatype":"xmedia",
+          "set": 2,
+          "type":"image",
+          "kind":"other",
+          "path":"/2018/V/0/3/p/1074/300/251/2",
+          "name":"1074300251_2_1_1",
+          "width":2479,
+          "height":2740,
+          "timestamp":"1519835453113",
+          "allowedScreens":[
+            "small",
+            "large"
+          ],
+          "locations":[
+            {
+              "name":"PRODUCT_PAGE",
+              "order":1
+            }
+          ]
+        },
+        {
+          "datatype":"xmedia",
+          "set": 2,
+          "type":"image",
+          "kind":"other",
+          "path":"/2018/V/0/3/p/1074/300/251/2",
+          "name":"1074300251_2_2_1",
+          "width":2479,
+          "height":2740,
+          "timestamp":"1519835462022",
+          "allowedScreens":[
+            "small",
+            "large"
+          ],
+          "locations":[
+            {
+              "name":"PRODUCT_PAGE",
+              "order":2
+            }
+          ]
+        },
+        {
+          "datatype":"xmedia",
+          "set": 2,
+          "type":"image",
+          "kind":"other",
+          "path":"/2018/V/0/3/p/1074/300/251/2",
+          "name":"1074300251_2_3_1",
+          "width":2479,
+          "height":2740,
+          "timestamp":"1519835471187",
+          "allowedScreens":[
+            "small",
+            "large"
+          ],
+          "locations":[
+            {
+              "name":"PRODUCT_PAGE",
+              "order":3
+            }
+          ]
+        },
+        {
+          "datatype":"xmedia",
+          "set": 2,
+          "type":"image",
+          "kind":"other",
+          "path":"/2018/V/0/3/p/1074/300/251/2",
+          "name":"1074300251_2_4_1",
+          "width":2479,
+          "height":2740,
+          "timestamp":"1519835479884",
+          "allowedScreens":[
+            "small",
+            "large"
+          ],
+          "locations":[
+            {
+              "name":"PRODUCT_PAGE",
+              "order":4
+            }
+          ]
+        },
+        {
+          "datatype":"xmedia",
+          "set": 2,
+          "type":"image",
+          "kind":"other",
+          "path":"/2018/V/0/3/p/1074/300/251/2",
+          "name":"1074300251_2_5_1",
+          "width":2479,
+          "height":2740,
+          "timestamp":"1519835485764",
+          "allowedScreens":[
+            "small",
+            "large"
+          ],
+          "locations":[
+            {
+              "name":"PRODUCT_PAGE",
+              "order":5
+            }
+          ]
+        },
+        {
+          "datatype":"xmedia",
+          "set": 2,
+          "type":"image",
+          "kind":"other",
+          "path":"/2018/V/0/3/p/1074/300/251/2",
+          "name":"1074300251_2_6_1",
+          "width":2479,
+          "height":2740,
+          "timestamp":"1519835492270",
+          "allowedScreens":[
+            "small",
+            "large"
+          ],
+          "locations":[
+            {
+              "name":"PRODUCT_PAGE",
+              "order":6
+            }
+          ]
+        },
+        {
+          "datatype":"xmedia",
+          "set": 2,
+          "type":"image",
+          "kind":"full",
+          "path":"/2018/V/0/3/p/1074/300/251/2",
+          "name":"1074300251_1_1_1",
+          "width":2479,
+          "height":2740,
+          "timestamp":"1519835498099",
+          "allowedScreens":[
+            "small",
+            "large"
+          ],
+          "locations":[
+            {
+              "name":"CATEGORY_PAGE",
+              "order":0
+            },
+            {
+              "name":"PRODUCT_PAGE",
+              "order":0
+            },
+            {
+              "name":"MINI_SHOPCART",
+              "order":0
+            },
+            {
+              "name":"SHOPCART_PAGE",
+              "order":0
+            },
+            {
+              "name":"RELATED_PRODUCT",
+              "order":0
+            },
+            {
+              "name":"BUNDLE_COMPONENT",
+              "order":0
+            }
+          ]
+        },
+        {
+          "datatype":"xmedia",
+          "set": 2,
+          "type":"image",
+          "kind":"colorcut",
+          "path":"/2018/V/0/3/p/1074/300/251/2",
+          "name":"1074300251_3_1_1",
+          "width":2479,
+          "height":2740,
+          "timestamp":"1519835510765",
+          "allowedScreens":[
+            "small",
+            "large"
+          ],
+          "locations":[
+            {
+              "name":"PRODUCT_PAGE",
+              "order":1
+            }
+          ]
+        }
+      ],
+      "sizes":[
+        {
+          "sizeId": 1,
+          "sku":1000100,
+          "name":"1-3 meses (62 cm)",
+          "reference":"0107430025105-V2018",
+          "equivalentSizeId":3
+        },
+        {
+          "sizeId": 1,
+          "sku":1000101,
+          "name":"9-12 meses (80 cm)",
+          "reference":"0107430025105-V2018",
+          "equivalentSizeId":12
+        },
+        {
+          "sizeId": 1,
+          "sku":1000102,
+          "name":"6-9 meses (74 cm)",
+          "reference":"0107430025105-V2018",
+          "equivalentSizeId":9
+        },
+        {
+          "sizeId": 1,
+          "sku":1000103,
+          "name":"6-9 meses (74 cm)",
+          "reference":"0107430025105-V2018",
+          "equivalentSizeId":9
+        },
+        {
+          "sizeId": 1,
+          "sku":1000104,
+          "name":"6-9 meses (74 cm)",
+          "reference":"0107430025105-V2018",
+          "equivalentSizeId":9
+        },
+        {
+          "sizeId": 2,
+          "sku":1296654,
+          "name":"3-6 meses (98 cm)",
+          "reference":"0107430025116-V2018",
+          "equivalentSizeId":6
+        },
+        {
+          "sizeId": 2,
+          "sku":4193088,
+          "name":"3-6 meses (98 cm)",
+          "reference":"0107430025126-V2018",
+          "equivalentSizeId":6
+        },
+        {
+          "sizeId": 3,
+          "sku":1296651,
+          "name":"3-6 meses (68 cm)",
+          "reference":"0107430025136-V2018",
+          "equivalentSizeId":6
+        },
+        {
+          "sizeId": 3,
+          "sku":12345,
+          "name":"3-6 meses (68 cm)",
+          "reference":"0107430025136-V2018",
+          "equivalentSizeId":6
+        }
+      ]
+    }
+  ]
+}

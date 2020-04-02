@@ -1,0 +1,22 @@
+{
+    "kind": "ImageStream",
+    "apiVersion": "v1",
+    "metadata": {
+        "name": "itx-trafficparrot-openshift"
+    },
+    "spec": {
+        "dockerImageRepository": "axdesocp1reg.central.inditex.grp/trafficparrot/trafficparrot",
+        "tags": [
+            {
+                "name": "5.4.0",
+                "annotations": {
+                    "description": "ITX images.",
+                    "iconClass": "icon-jboss",
+                    "tags": "trafficparrot,java",
+                    "supports":"java:8,xpaas:1.0",
+                    "version": "5.4.0"
+                }
+            }
+        ]
+    }
+}

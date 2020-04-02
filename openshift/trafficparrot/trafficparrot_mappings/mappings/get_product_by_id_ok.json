@@ -1,0 +1,17 @@
+{
+  "id" : "d229514c-f0a8-11e9-81b4-2a2ae2dbcce4",
+  "name" : "get_product_by_id_ok.json",
+  "request" : {
+    "urlPathPattern" : "/itxrest/([0-9]+)/private/integration/catalog/store/([0-9]+)/product/1001100",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "product_rest_response_ok.json",
+    "headers" : {
+      "Content-Type" : "application/json"
+    },
+    "transformers" : [ "response-template" ]
+  },
+  "uuid" : "d229514c-f0a8-11e9-81b4-2a2ae2dbcce4"
+}
